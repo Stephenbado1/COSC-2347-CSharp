@@ -1,1 +1,1 @@
-<p align="right">String interpolation assignment</p>
+<p align="left">String interpolation assignment</p>
